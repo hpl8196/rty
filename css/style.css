@@ -1,0 +1,300 @@
+@charset "utf-8";
+/* CSS Document */
+.qw{ height: 80px; }
+.er{ width: 268px;
+}
+.er ul{padding-top: 4px;
+    padding-left: 40px;
+    padding-bottom: 1px;}
+.er ul li a{color:#999;}
+.er ul li{
+	float:left;
+	width: 66px;
+	height: 14px;
+	font-size: 12px;
+	border-right:  #999 solid 1px;
+	text-align: center;
+	line-height: 14px;	
+}
+.er li a:hover{
+	color:#ff9c00;
+}
+.er p{
+	height: 61px;
+    line-height: 61px;
+	background: url(../images/dianhua.png) left 20px no-repeat;
+	padding-left: 27px;
+}
+.er p span{
+	color:#FF9C00;
+	font-size: 24px;
+	font-family: Impact;
+	vertical-align: middle;	
+}  
+.ty{
+	height: 35px;
+	background: url(../images/15.jpg);
+	
+}
+.ty ul{
+	background: url(../images/house.png) left center no-repeat;
+	padding-left: 26px;
+}
+.ty ul li{
+	float: left;
+	line-height: 35px;
+	width: 118px;
+	text-align: center;
+	background: url(../images/line.png) right center no-repeat;	
+}
+.ty ul li a{
+	color:#fff;
+}
+.ty ul li a:hover{color:#ff9c00;}
+.banner{align-content: center;}
+.peng{
+	text-align: center;
+	margin-top: 64px;
+}
+.pline{
+	width: 298px;
+	height: 28px;
+	border-bottom: #333 solid 1px;
+	margin: 0 auto;
+}
+.ptitle{width: 153px;
+text-align: center;
+	font-size: 30px;
+	margin: -24px auto 0;
+	background: #FFF;
+}
+.ptitle span{
+	color:#FF9C00;
+}
+.p{ margin-top: 47px;
+	
+}
+.p li{ float: left;
+	width: 147px;
+	height: 37px;
+	text-align: center;
+	line-height: 37px;
+	background-color: #333;
+	margin-right: 10px;
+}
+.p li a{
+	color:white;
+}
+.p li:hover{
+	background-color: #ff9C00;
+}
+.p li span:hover{color:#ff9C00;}
+.u a:hover{color:#ff9C00; }
+
+.u a{color:#999999;}
+.a{margin-top: 58px;}
+
+.a li{ float: left;
+	margin-right: 18px;
+	margin-bottom: 18px;
+	position: relative;
+}
+.a li:hover p{ 
+display: block;
+}
+.a li p{
+	position: absolute;
+	color:white;
+	height: 48px;
+	text-align: center;
+	line-height: 48px;
+	left:0px;
+	bottom:0px;
+	width: 100%;
+	display: none;
+	background-color: rgba(0,0,0,.5);
+}
+.ad li{	float: left;
+	margin-right: 15px;
+	margin-bottom: 16px;
+margin-bottom: 18px;
+	position: relative;}
+.a li p a{
+	color:white;
+}
+.ad li p{
+	position: absolute;
+	color:white;
+	height: 257px;
+	text-align: center;
+	line-height: 48px;
+	left:0px;
+	top:0px;
+	width: 100%;
+	display: none;
+	background-color:rgba(0,0,0,.5);
+}
+.ad li:hover p{ 
+display: block;
+}
+.ad li p span{
+	color:white;
+}
+.ad li a{color: white;
+}
+.sd{text-align: center;
+	margin-top: 116px;
+}
+.pline{
+	width: 298px;
+	height: 28px;
+	border-bottom: #333 solid 1px;
+	margin: 0 auto;
+}
+.hj{width: 153px;
+text-align: center;
+	font-size: 30px;
+	margin: -24px auto 0;
+	background: #FFF;
+}
+.hj span{
+	color:#FF9C00;
+}
+
+.kl{
+	float: left;
+	width: 460px;
+	height: 244px;
+	margin-top: 50px;
+	margin-right: 20px;
+}
+.zx{
+	text-indent: 2em;
+	margin-top: 53px;
+	font-size: 14px;
+	line-height: 32px;
+	color:#333;
+}
+.b{
+	width: 1921px;
+	height: 819px;
+	background: url(../images/tu9.jpg) no-repeat;
+	opacity:0.8;
+	margin:0 auto;  
+}
+.u{text-align: right;
+font-size: 14px;
+color: #999999;}
+body{font-family:"微软雅黑";
+	overflow-x: hidden;
+}
+
+.g{margin-top: -110px;}
+.ad{
+	margin-top: 45px;
+}
+.cname{
+	font-size: 18px;
+}
+.cjianjie{
+	line-height: 80px;
+	
+}
+
+.bd{
+	margin-top: 45px;
+}
+.aboutleft{
+	width: 545px;
+}
+.aboutright{
+	width: 606px;
+}
+.bdtop_title{
+	color:#ff9c00;
+	line-height: 30px;
+	font-weight: bold;
+}
+.bdtop_content{
+	color: #999;
+	line-height: 22px;
+	margin-top: 20px;
+}
+.bdtop_content a{color: #999999;}
+.bdtop{
+	color:#999;
+	float:right;
+}
+.bdtop a{ float:right;}
+.bdtop a:hover{
+	color:#ff9c00;
+}
+.bdb{
+	margin-top: 125px;
+}
+.bdb li{
+	width: 606px;
+	height: 38px;
+	line-height: 38px;
+}
+.bdb a{
+	color:#666;
+}
+.bdb a:hover{
+	color:#ff9c00;
+}
+.bdb li span{
+	float: right;
+	color:#666;
+}
+.foot{
+	height: 228px;
+	background-color: #744700;
+	color:#fff6e9;
+	text-align: center;
+	margin-top:129px;
+	padding-top:40px;
+}
+.foot ul{
+	width: 704px;
+	margin: 0 auto;
+}
+.foot ul li{
+	width: 86px;
+	text-align-last: center;
+	height: 16px;
+	line-height: 16px;
+	border-right: #fff solid 1px;
+	padding-bottom: 5px;
+	float:left;
+	
+}
+.foot ul li a{
+	color:#fff;
+}
+.foot p{
+	line-height: 25px;
+	text-align: center;
+	margin: 50px;
+}
+.foot ul li a:hover{color: #ff9C00;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
